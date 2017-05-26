@@ -10,15 +10,20 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F50A098B-9202-4531-8E38-ECDA3C2B4C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F50A098B-9202-4531-8E38-ECDA3C2B4C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50A098B-9202-4531-8E38-ECDA3C2B4C7B}.Development|Any CPU.ActiveCfg = Development|Any CPU
+		{F50A098B-9202-4531-8E38-ECDA3C2B4C7B}.Development|Any CPU.Build.0 = Development|Any CPU
 		{F50A098B-9202-4531-8E38-ECDA3C2B4C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F50A098B-9202-4531-8E38-ECDA3C2B4C7B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EF712194-C3F5-44D0-9DE0-0692EB2B29DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EF712194-C3F5-44D0-9DE0-0692EB2B29DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF712194-C3F5-44D0-9DE0-0692EB2B29DE}.Development|Any CPU.ActiveCfg = Development|Any CPU
+		{EF712194-C3F5-44D0-9DE0-0692EB2B29DE}.Development|Any CPU.Build.0 = Development|Any CPU
 		{EF712194-C3F5-44D0-9DE0-0692EB2B29DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF712194-C3F5-44D0-9DE0-0692EB2B29DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
